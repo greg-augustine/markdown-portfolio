@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+### Stuff I Like
+* Pizza
+* Black Metal
+* Hikes
+* Jeeps
