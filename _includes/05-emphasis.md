@@ -1,0 +1,1 @@
+I am gaining *web development* skills by the __minute__. I have begun learning basic *HTML* and *CSS* as well as diving into *GitHub* to help with version control and learn the __most__ widely used collaboration platform in the *__industry!__* :metal:
