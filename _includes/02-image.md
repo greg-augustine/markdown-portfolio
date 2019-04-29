@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![A cheerful alien](http://en.es-static.us/upl/2016/01/alien-waving-sq-e1453397357310.jpg)
